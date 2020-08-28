@@ -12,7 +12,7 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #ee4b08;
+  color: whitesmoke;
 }
 
 hr {
@@ -22,7 +22,7 @@ hr {
 }
 
 .buffer {
-  height: 10rem;
+  height: 13rem;
 }
 
 .btn {
